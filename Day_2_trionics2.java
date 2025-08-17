@@ -2,6 +2,7 @@ public class Day_2_trionics2 {
     public static void main(String[] args) {
         int[] nums={1,4,8,9};
         System.out.println(isTrionic(nums)?"true":"False");
+        
     }
         public static boolean isTrionic(int[] nums) {
             int n=nums.length;
