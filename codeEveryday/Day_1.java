@@ -1,3 +1,4 @@
+package codeEveryday;
 import java.util.Scanner;
 
 class Day_1{

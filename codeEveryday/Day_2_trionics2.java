@@ -1,3 +1,4 @@
+package codeEveryday;
 public class Day_2_trionics2 {
     public static void main(String[] args) {
         int[] nums={1,4,8,9};

@@ -1,3 +1,4 @@
+package codeEveryday;
 class Day_2_trionics{
     public static void main(String[] args) {
         int[] arr = {1,3,5,4,2,6};
